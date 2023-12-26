@@ -10,49 +10,33 @@
 # Pinterest Clone
 
 ## Introduction
-This project is a clone of the popular visual discovery engine, Pinterest. It's designed to demonstrate the capabilities in web development, replicating key features of Pinterest.
+This project is a front-end clone of the popular visual discovery engine, Pinterest. It focuses on replicating the visual aspects and user experience of Pinterest's landing/home page using modern front-end technologies.
 
 ## Features
-- **Image Upload & Management**: Users can upload, save, and manage images.
-- **User Authentication**: Secure login and registration system.
-- **Board Creation & Management**: Users can create and manage personalized boards.
-- **Image Bookmarking & Categorization**: Images can be bookmarked and categorized for easy retrieval.
+- **Landing/Home Page**: A beautifully designed landing page that resembles Pinterest's style and layout.
+- **Interactive UI**: Enhanced user experience with interactive elements and animations.
 - **Responsive Design**: The site is fully responsive, adapting to various screen sizes.
 
 ## Technologies Used
-- **Frontend**: React.js, HTML, CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Others**: AWS S3 (Image storage), OAuth (Authentication)
+- **HTML**: Structuring the web page.
+- **CSS**: Styling the page, including layout and design elements.
+- **JavaScript**: Adding interactivity to the web pages.
+- **GSAP**: For complex animations.
+- **Locomotive Scroll**: Smooth scrolling and parallax effects.
 
 ## Installation and Setup
-Clone the repository and install dependencies:
-```bash
-git clone https://your-repository-url
-cd pinterest-clone
-npm install
-npm start
-```
+No installation is required. The website can be directly accessed if hosted, or by opening the `index.html` file in a web browser.
 
 ## Usage
-After installation, the application can be accessed at `http://localhost:3000`. Explore the various features like creating a board, uploading images, etc.
+Explore the landing page and enjoy the interactive features and animations that mimic Pinterest's design.
 
 ## Contributing
-Contributions are welcome. Follow these steps:
-- Fork the repo
-- Create a new branch (`git checkout -b feature/YourFeature`)
-- Commit your changes (`git commit -m 'Add some feature'`)
-- Push to the branch (`git push origin feature/YourFeature`)
-- Create a new Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Contributions are welcome. Since this is a front-end only project, contributions can range from design improvements to adding new interactive elements.
 
 ## Acknowledgements
-- React.js
-- Node.js
-- MongoDB
-- And all other libraries and frameworks used in this project.
+- GSAP (GreenSock Animation Platform)
+- Locomotive Scroll
+- All other libraries and frameworks used in this project.
 
 ## Contact
-For any queries regarding this project, please reach out at `your-email@example.com`.
+For any queries or suggestions regarding this project, please reach out at `your-email@example.com`.
