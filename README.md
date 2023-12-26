@@ -6,6 +6,7 @@
 
 [KBD]: https://itsremiofficial.github.io/pinterest-clone/
 
+<img alt="Pinterest Clone Video Preview" src="LiveDemo.gif"> </img>
 
 
 # Pinterest Clone
