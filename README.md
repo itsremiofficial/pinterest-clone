@@ -1,5 +1,7 @@
 # Watch Live Demo Below
  
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
 # [<kbd> <br><br><br> LIVE DEMO <br><br><br> </kbd>][KBD]
 
 
