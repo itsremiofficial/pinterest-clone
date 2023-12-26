@@ -1,9 +1,8 @@
 # Watch Live Demo Below
  
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Pinterest Clone Video Preview" src="preview.gif"> </img>
 
-# [<kbd> <br><br><br> LIVE DEMO <br><br><br> </kbd>][KBD]
-
+# [<kbd> <br><br>    LIVE DEMO    <br><br> </kbd>][KBD]
 
 [KBD]: https://itsremiofficial.github.io/pinterest-clone/
 
@@ -22,7 +21,7 @@ This project is a front-end clone of the popular visual discovery engine, Pinter
 ## Technologies Used
 - **HTML**: Structuring the web page.
 - **CSS**: Styling the page, including layout and design elements.
-- **GSAP + JavaScript**: For complex animations.
+- **GSAP + JavaScript**: For animations.
 - **Locomotive**: Smooth scrolling and parallax effects.
 
 ## Installation and Setup
