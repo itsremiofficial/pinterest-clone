@@ -169,7 +169,7 @@ section .first-sec{
     width: 1920px !important;
     height: 100%;
     padding: 0 0 !important;
-    position: absolute;
+    position: relative;
 }
 @media (max-width:1440px) {
     
