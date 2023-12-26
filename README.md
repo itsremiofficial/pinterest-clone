@@ -3,4 +3,4 @@
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 
 
-[KBD]: Types/KBD.md
+[KBD]: https://itsremiofficial.github.io/pinterest-clone/
