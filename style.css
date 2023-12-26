@@ -190,7 +190,7 @@ section .items .item {
 
 section .items .item .single-item {
     /* background-color: black; */
-    width: 100%;
+    width: 250px;
     height: 350px;
     display: flex;
     border-radius: 25px;
