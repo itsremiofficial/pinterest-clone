@@ -20,9 +20,8 @@ This project is a front-end clone of the popular visual discovery engine, Pinter
 ## Technologies Used
 - **HTML**: Structuring the web page.
 - **CSS**: Styling the page, including layout and design elements.
-- **JavaScript**: Adding interactivity to the web pages.
-- **GSAP**: For complex animations.
-- **Locomotive Scroll**: Smooth scrolling and parallax effects.
+- **GSAP + JavaScript**: For complex animations.
+- **Locomotive**: Smooth scrolling and parallax effects.
 
 ## Installation and Setup
 No installation is required. The website can be directly accessed if hosted, or by opening the `index.html` file in a web browser.
@@ -39,4 +38,4 @@ Contributions are welcome. Since this is a front-end only project, contributions
 - All other libraries and frameworks used in this project.
 
 ## Contact
-For any queries or suggestions regarding this project, please reach out at `your-email@example.com`.
+For any queries or suggestions regarding this project, please reach out at `itsremiofficial@yahoo.com`.
