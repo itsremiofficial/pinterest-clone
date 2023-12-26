@@ -2,11 +2,11 @@
  
 <img alt="Pinterest Clone Video Preview" src="preview.gif"> </img>
 
-# [<kbd> <br><br>        LIVE DEMO        <br><br> </kbd>][KBD]
+# [<img alt="Pinterest Clone Video Preview" src="LiveDemo.gif" width="200px"> </img>][KBD]
 
 [KBD]: https://itsremiofficial.github.io/pinterest-clone/
 
-<img alt="Pinterest Clone Video Preview" src="LiveDemo.gif" width="200px"> </img>
+
 
 
 # Pinterest Clone
