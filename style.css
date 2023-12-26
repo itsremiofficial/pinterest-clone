@@ -170,6 +170,8 @@ section .first-sec{
     height: 100%;
     padding: 0 0 !important;
     position: absolute;
+    display: flex;
+    justify-content: center;
 }
 @media (max-width:1440px) {
     
