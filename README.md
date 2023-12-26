@@ -1,3 +1,3 @@
 # pinterest-clone
  
-[button url="http://www.google.com"]
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
