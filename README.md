@@ -35,7 +35,6 @@ Contributions are welcome. Since this is a front-end only project, contributions
 ## Acknowledgements
 - GSAP (GreenSock Animation Platform)
 - Locomotive Scroll
-- All other libraries and frameworks used in this project.
 
 ## Contact
 For any queries or suggestions regarding this project, please reach out at `itsremiofficial@yahoo.com`.
