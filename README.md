@@ -1,4 +1,4 @@
-# Watch Live Demo Below
+# Pinterest Landing/Home Page Clone (Front End)
  
 <img alt="Pinterest Clone Video Preview" src="preview.gif"> </img>
 
