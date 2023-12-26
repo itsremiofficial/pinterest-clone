@@ -81,6 +81,7 @@ body {
     line-height: 1;
     text-rendering: optimizeSpeed;
     color: var(--g-colorGray300);
+    background-color: var(--g-colorGray0);
 }
 
 header {
@@ -157,7 +158,6 @@ header>ul>ul>li {
 section {
     height: 100vh;
     width: 100vw;
-    background-color: var(--g-colorGray0);
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -169,6 +169,27 @@ section .first-sec{
     width: 1920px !important;
     height: 100%;
     padding: 0 0 !important;
+    position: absolute;
+}
+@media (max-width:1440px) {
+    
+    section .first-sec{
+        width: 1350px !important;
+    }
+    .first-sec .items{
+    position: absolute;
+    width: 100%;
+    }
+}
+@media (max-width:763px) {
+    
+    section .first-sec{
+        width: 750px !important;
+    }
+    .first-sec .items{
+    position: absolute;
+    width: 100%;
+    }
 }
 section .items {
     position: absolute;
