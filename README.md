@@ -39,4 +39,5 @@ Contributions are welcome. Since this is a front-end only project, contributions
 ## Contact
 For any queries or suggestions regarding this project, please reach out at `itsremiofficial@yahoo.com`.
 
-<a class="btn btn-primary" href="#">Login</a>
+<a href="http://www.example.com" style="background-color: #4CAF50; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; border-radius: 8px; margin: 10px 0;">Visit Example.com</a>
+
