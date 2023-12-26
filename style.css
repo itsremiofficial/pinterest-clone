@@ -216,7 +216,7 @@ section .items .item {
 
 section .items .item .single-item {
     /* background-color: black; */
-    width: 250px;
+    width: 220px;
     height: 350px;
     display: flex;
     border-radius: 25px;
